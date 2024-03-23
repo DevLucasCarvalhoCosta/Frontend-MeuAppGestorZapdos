@@ -33,6 +33,7 @@ Este e apenas o Frontend.
 4. **Inicie o aplicativo:**
    ```bash
    npx expo start --port 3001
+   npm install -g expo-cli
 
 6. Abra o aplicativo no Expo Go: Escaneie o QR code gerado pelo Expo Go no seu dispositivo móvel ou use um emulador para testar a aplicação.
    
