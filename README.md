@@ -27,13 +27,14 @@ Este e apenas o Frontend.
    git clone https://github.com/Lucaspk91/Frontend-MeuAppGestorZapdos.git
 
 2. **Instale as dependências:**
-3. 
-  git clone npm install
+   ```bash
+   npm install
 
 4. **Inicie o aplicativo:**
-  git clone npx expo start --port 3001
+   ```bash
+   npx expo start --port 3001
 
-5. Abra o aplicativo no Expo Go: Escaneie o QR code gerado pelo Expo Go no seu dispositivo móvel ou use um emulador para testar a aplicação.
+6. Abra o aplicativo no Expo Go: Escaneie o QR code gerado pelo Expo Go no seu dispositivo móvel ou use um emulador para testar a aplicação.
    
     
    
